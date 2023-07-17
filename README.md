@@ -4,4 +4,4 @@ Single-shot promptable object segmentation with [SAM](https://github.com/faceboo
 
 Local feature matching with [LoFTR](https://github.com/zju3dv/LoFTR).
 
-
+![](https://github.com/tragians/zero_shot_car_tracker/blob/main/zero_shot_tracker.png)
